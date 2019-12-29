@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# What do I want to do in the future?
 
-You can use the [editor on GitHub](https://github.com/sashankvempati/The-RoomApp-Future-Plans/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I would like to expand my business model by having different types of settings for spaces for more types of customers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Uber and Lyft drivers:
 
-### Markdown
+For example, there could be a space for a user to take rest for a couple of hours. Uber and Lyft drivers that drive for a significant amount of time could benefit a lot from using these spaces to refresh like take a shower and rest for a bit, which may not be viable to go home just for this, because of how much potential time would be spent.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Commuters:
 
-```markdown
-Syntax highlighted code block
+People who commute long distance could use this service as a way to freshen up, take rest, shower, or wait until the traffic goes down and get some work done in the meantime.
 
-# Header 1
-## Header 2
-### Header 3
+People who go to sports games:
 
-- Bulleted
-- List
+This service would help these people have a place to stay in the last minute, which is useful either when they show up early and wait and while at the same time would want privacy, or when they want to wait somewhere after the game is over, so that they would avoid most of the traffic when going back.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sashankvempati/The-RoomApp-Future-Plans/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## I want my business model to include environments that promote LEARN - WORK - PLAY - REST
